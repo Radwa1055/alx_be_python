@@ -22,6 +22,6 @@ class BankAccount:
         """Display the current account balance."""
         print(f"Current Balance: ${self.__account_balance}")
 
-    #لازم الفايلين يكونو في نفس الفولدر عشان اشغلهم مع بعض 
+    #لازم الفايلين يكونو في نفس الفولدرالكبير عشان اشغلهم مع بعض 
         
         
