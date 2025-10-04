@@ -20,7 +20,7 @@ class BankAccount:
 
     def display_balance(self):# استعلام عن الرصيد 
         """Display the current account balance."""
-        print(f"Current Balance: ${self.__account_balance:2f}")
+        print(f"Current Balance: ${self.__account_balance:4f}")
 
     #لازم الفايلين يكونو في نفس الفولدرالكبير عشان اشغلهم مع بعض 
         
