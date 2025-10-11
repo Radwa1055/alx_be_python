@@ -11,6 +11,3 @@ class book:
     
     def __rep__(self):
       return f"Book('{self.title}', '{self.author}', {self.year})"
-  
-        
-        
